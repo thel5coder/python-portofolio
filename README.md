@@ -20,10 +20,10 @@ All script files are located directly in the root directory of the `main` branch
 - **Description:** A simple system to manage user preferences like theme, language, and notifications using dictionaries. It implements functions to add, update, delete, and view settings while handling lowercase string normalization and formatting custom feedback messages.
 
 ### 2. 💰 Budget App (`budget-app.py`)
-- **Description:** An object-oriented budget tracker that features a `Category` class to manage a ledger of deposits, withdrawals, and transfers. It also includes a function that calculates spending percentages and draws a cleanly aligned ASCII bar chart.
+- **Description:** A practical lab focused on Python **Classes and Objects**. It features a `Category` class to manage a personalized ledger of deposits, withdrawals, and transfers, along with a standalone function that calculates spending metrics and draws a cleanly aligned ASCII bar chart.
 
 ### 3. 📐 Polygon Area Calculator (`poligon-area-calculator.py`)
-- **Description:** A geometric calculator built using object-oriented programming. It uses class inheritance to create `Rectangle` and `Square` classes, allowing it to compute dimensions, areas, perimeters, and even check how many times a shape can fit inside another.
+- **Description:** A geometric calculator built to practice **Object-Oriented Programming (OOP) and Inheritance**. By creating a base `Rectangle` class and a `Square` subclass, the script handles shared attributes to compute dimensions, areas, perimeters, and determine how shapes fit inside one another.
 
 ### 4. 🗄️ Hash Table Implementation (`hash-table.py`)
 - **Description:** A custom hash table built completely from scratch without using native dictionary shortcuts. It calculates hash values by summing the Unicode/ASCII values of string characters, stores key-value pairs in nested structures, and provides direct lookup and removal methods.
