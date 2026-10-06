@@ -58,5 +58,5 @@ All script files are located directly in the root directory of the `main` branch
 ## ✉️ Connect With Me
 I am actively looking for opportunities as an **AI Trainer**, **AI Data Specialist**, or **Junior Python Developer**. Feel free to explore my code or reach out for collaboration!
 
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/syaikhul-hadi-b62572b2/)
+- **LinkedIn:** [:/linkedin.com](https://www.linkedin.com/in/syaikhul-hadi-b62572b2/)
 - **Email:** your.email@example.com
