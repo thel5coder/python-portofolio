@@ -1,10 +1,8 @@
 # 🤖 Python for AI Development: freeCodeCamp Certification Projects
 
-# 🤖 Python for AI Development: freeCodeCamp Certification Projects
-
-| 🎓 Certification | 🐍 Language | 🎯 Target Role |
-| :--- | :--- | :--- |
-| **freeCodeCamp Certified** | **Python 3.10+** | **AI Trainer / Data Specialist** |
+| 🎓 Certification | 🐍 Language |
+| :--- | :--- |
+| **freeCodeCamp Certified** | **Python 3.10+** |
 
 Welcome to my portfolio repository! This repository showcases the core projects I completed to earn my Python certification from freeCodeCamp. 
 
