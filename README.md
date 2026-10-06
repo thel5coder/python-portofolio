@@ -1,8 +1,10 @@
 # 🤖 Python for AI Development: freeCodeCamp Certification Projects
 
-[![freeCodeCamp Certification](https://shields.io)](https://freecodecamp.org)
-[![Python Version](https://shields.io)](https://python.org)
-[![Role Focus](https://shields.io)](#)
+# 🤖 Python for AI Development: freeCodeCamp Certification Projects
+
+| 🎓 Certification | 🐍 Language | 🎯 Target Role |
+| :--- | :--- | :--- |
+| **freeCodeCamp Certified** | **Python 3.10+** | **AI Trainer / Data Specialist** |
 
 Welcome to my portfolio repository! This repository showcases the core projects I completed to earn my Python certification from freeCodeCamp. 
 
