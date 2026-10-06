@@ -37,8 +37,8 @@ All script files are located directly in the root directory of the `main` branch
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
-   cd YOUR_REPOSITORY_NAME
+   git clone git@github.com:thel5coder/python-portofolio.git
+   cd python-portofolio
    ```
 
 2. **Execute any project script directly from the root:**
