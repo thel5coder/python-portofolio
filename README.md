@@ -4,44 +4,32 @@
 | :--- | :--- |
 | **freeCodeCamp Certified** | **Python 3.10+** |
 
-Welcome to my portfolio repository! This repository showcases the core projects I completed to earn my Python certification from freeCodeCamp. 
+Welcome! This repository holds the practical Python projects I built to earn my certification from freeCodeCamp. 
 
-As an aspiring **AI Trainer / AI Core Specialist**, my primary focus here is to demonstrate clean code architecture, algorithmic reasoning, and data structure manipulation—all of which are highly critical for training, evaluating, and fine-tuning Large Language Models (LLMs) and AI systems.
-
----
-
-## 🎯 Relevancy to AI Trainer & AI Roles
-
-In AI training and data annotation roles, Python competency translates directly to high-quality data workflows:
-- **Data Preprocessing & Configuration:** Managing and parsing structural parameters to control data labeling and system behaviors.
-- **Algorithmic Reasoning:** Implementing complex logical flows to evaluate LLM outputs and reduce hallucinations.
-- **Data Optimization:** Structuring data efficiently to minimize model inference latency and maximize token quality.
+While these look like standard programming labs, building them helped me sharpen the exact foundation needed for **AI Training and Data roles**:
+* **Handling Raw Data:** Projects like the *Configuration Manager* and *Budget App* taught me how to clean, parse, and structure messy inputs—which is exactly what's needed when preparing dataset logs for AI models.
+* **Logic & Edge Cases:** Writing code for the *Hash Table* and *Tower of Hanoi* forced me to think through strict step-by-step algorithms. In AI training, this translates directly to writing clear evaluation rules and tracking model reasoning patterns.
 
 ---
 
-## 📂 Project Showcase & Core Competencies
+## 📂 Project Showcase
 
-All script files are located directly in the root directory for straightforward access and quick execution:
+All script files are located directly in the root directory of the `main` branch. Each project cleanly passes its test suite by meeting the specific lab requirements:
 
 ### 1. ⚙️ User Configuration Manager (`configuration-manager.py`)
-- **Description:** A system designed to manage, parse, and validate user-defined settings and environment variables.
-- **AI Trainer Application:** Shadows the baseline infrastructure needed for managing model hyperparameters, prompt templates, and user-persona configurations in LLM pipelines.
+- **Description:** A simple system to manage user preferences like theme, language, and notifications using dictionaries. It implements functions to add, update, delete, and view settings while handling lowercase string normalization and formatting custom feedback messages.
 
 ### 2. 💰 Budget App (`budget-app.py`)
-- **Description:** An object-oriented budget tracking application capable of ledger logging, transfers, and asset distribution visualization via ASCII bar charts.
-- **AI Trainer Application:** Object-Oriented Programming (OOP) and structural data conversion—skills used to transform unstructured LLM responses into machine-readable datasets.
+- **Description:** An object-oriented budget tracker that features a `Category` class to manage a ledger of deposits, withdrawals, and transfers. It also includes a function that calculates spending percentages and draws a cleanly aligned ASCII bar chart.
 
 ### 3. 📐 Polygon Area Calculator (`poligon-area-calculator.py`)
-- **Description:** A geometric shape calculator utilizing class inheritance to compute dimensions, intersections, and fitting capacities.
-- **AI Trainer Application:** Demonstrates understanding of hierarchical structures and algorithmic spatial reasoning, essential for multi-modal spatial AI tasks.
+- **Description:** A geometric calculator built using object-oriented programming. It uses class inheritance to create `Rectangle` and `Square` classes, allowing it to compute dimensions, areas, perimeters, and even check how many times a shape can fit inside another.
 
 ### 4. 🗄️ Hash Table Implementation (`hash-table.py`)
-- **Description:** A custom low-level key-value data structure utilizing a custom hashing function to manage collision resolutions.
-- **AI Trainer Application:** Deep dive into memory mapping and indexing efficiency. Crucial for understanding token embeddings, vector databases, and high-speed data retrieval in AI systems.
+- **Description:** A custom hash table built completely from scratch without using native dictionary shortcuts. It calculates hash values by summing the Unicode/ASCII values of string characters, stores key-value pairs in nested structures, and provides direct lookup and removal methods.
 
 ### 5. 🗼 Tower of Hanoi Algorithm (`tower-of-hanoi-algoritm.py`)
-- **Description:** A classic mathematical puzzle implemented using recursive algorithms and step-by-step state stack tracking.
-- **AI Trainer Application:** Advanced algorithmic logic, recursion, and tree-search tracking. This directly aligns with Reinforcement Learning principles and multi-step reasoning methods (e.g., Chain-of-Thought prompting).
+- **Description:** A mathematical puzzle solver designed to move disks between rods according to the game's classic rules. Using a recursive approach, it solves the puzzle in the optimal \(2^n - 1\) moves and prints a step-by-step layout of the rods for each turn.
 
 ---
 
